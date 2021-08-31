@@ -1,0 +1,1 @@
+place the App folder on the c: drive and then run the Start batch file in the same directory to access the application
