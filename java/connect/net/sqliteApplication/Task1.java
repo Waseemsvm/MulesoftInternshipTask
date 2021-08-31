@@ -12,7 +12,7 @@ import java.sql.ResultSet;
 public class Task1{
 	
 	private Connection connect(){
-			String url = "jdbc:sqlite:C://App/db/movie.db";
+			String url = "jdbc:sqlite:C://MulesoftInternshipTask/db/movie.db";
 			Connection conn = null;
 			System.out.println("Connecting to movies Database...\n");
 			
